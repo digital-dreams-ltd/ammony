@@ -1,0 +1,85 @@
+.rightdesc {
+	float: left;
+	width: 40%;
+}
+.leftdesc {
+	float: left;
+	width:60%;
+}
+.centerdesc {
+	float: left;
+	width:100%;
+}
+.right-desc1 {
+	float: left;
+	width: 70%;
+}
+.left-desc {
+	float: left;
+	width:30%;
+}
+.required {
+}
+.error {
+	color: #FF0000;
+	background-color: #FFCC99;
+}
+.wide {
+	width: 100%;
+}
+.lHide
+{
+	margin-left:0%;
+	opacity:0;
+	display:none;
+}
+.rHide
+{
+	margin-left:0%;
+	opacity:0;
+	display:block;
+}
+.oRow
+{
+	margin-top:50px;
+	opacity:0;
+	display:block;
+}
+.nB
+{
+background-color:inherit;
+border-radius:0px;
+}
+.fixed
+{
+	position: fixed;
+}
+.panel
+{
+	height:400px;
+	overflow-x: hidden; 
+	overflow-y: auto;
+}
+.bottom-dotted
+{
+	border-bottom:dotted 1px #999999;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.capitalize
+{
+	text-transform:uppercase;
+}
+.backdrop
+{
+	background-color:#6600CC !important;
+}
+@media screen and (max-width:480px){
+.rightdesc {
+	width: 100%;
+}
+.leftdesc {
+	width:100%;
+}
+}

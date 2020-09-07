@@ -1,0 +1,6 @@
+[22-Nov-2015 06:38:34 America/Denver] PHP Fatal error:  Call to undefined function getdefault_account() in /home/digitav2/public_html/newbiz/accounts/sales_invoice.php on line 116
+[22-Nov-2015 06:40:47 America/Denver] PHP Fatal error:  Call to undefined function getdefault_account() in /home/digitav2/public_html/newbiz/accounts/sales_invoice.php on line 116
+[22-Nov-2015 06:41:46 America/Denver] PHP Fatal error:  Call to undefined function getdefault_account() in /home/digitav2/public_html/newbiz/accounts/sales_invoice.php on line 116
+[24-Nov-2015 12:44:43 America/Denver] PHP Fatal error:  Call to undefined function getdefault_account() in /home/digitav2/public_html/newbiz/accounts/sales_invoice.php on line 116
+[17-Jan-2016 07:24:52 America/Denver] PHP Fatal error:  Call to undefined function getdefault_account() in /home/digitav2/public_html/newbiz/accounts/sales_invoice.php on line 116
+[17-Jan-2016 07:25:09 America/Denver] PHP Fatal error:  Call to undefined function getdefault_account() in /home/digitav2/public_html/newbiz/accounts/sales_invoice.php on line 116

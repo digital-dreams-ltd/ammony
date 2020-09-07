@@ -1,0 +1,119 @@
+.floatme{
+	float:right;
+	margin-top:-18%;
+}
+.cnt {
+	background-color: #2d2d2d;
+	float: left;
+	height: auto;
+	width: 100%;
+	padding: 20px;
+}
+.colorme{
+	background:grey;
+}
+p .one{text-align:justify;}
+.borderme {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.boxshadowme {
+	box-shadow:0 5px 5px #ccc;
+}
+.styleme1{
+	height:120px !important;
+}
+#vts{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color:#09F;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+.container.row .col.s12 #fnt {
+	list-style-type: circle;
+}
+#top{
+	margin-top:50px;
+}
+#req{
+	padding:30px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	margin-bottom:30px;	
+}
+.btmgn{
+margin-bottom:30px !important;	
+}
+.bdl{
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #ccc;	
+}
+.iconsimg
+{
+	float:left;
+	position:absolute;
+	left:0px!important;
+	top:0px!important;
+	padding-left:0px!important;
+	padding-right:0px!important;
+}
+.cl{
+	color:#06F;
+}
+#cls{
+	color:#06F;
+	font-size:18px;
+}
+.ngo{
+	width:100%;
+	height:40px;
+	font-size:40px;
+	margin-top:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	line-heigth:45px;
+	text-align:center;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 45px;
+	font-weight: 300;
+	color: #333;
+	float: left;
+}
+
+
+.ngo2{
+	width:50%;
+	height:40px;
+	font-size:40px;
+	margin-top:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	line-heigth:45px;
+	text-align:center;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 45px;
+	font-weight: 300;
+	color: #333;
+	float: left;
+}
+.ngo3{
+	width:100%;
+	height:10px;
+	font-size:40px;
+	margin-top:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	line-heigth:45px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 45px;
+	font-weight: 300;
+	color: #333;
+	float: left;
+	margin-bottom:20px;
+}
+.logo img {
+	height: 60px;
+}
